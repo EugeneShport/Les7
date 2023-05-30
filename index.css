@@ -1,0 +1,19 @@
+.vse {
+  display: flex;
+}
+
+.hide {
+  display: none;
+}
+
+.SonicFlex {
+  height: 90px;
+  width: 90px;
+}
+
+.nikakoy {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
